@@ -1,0 +1,56 @@
+["liefde", "dashuri", "maite", "pyaar", "ljubav", "karantez", "amor", "gugma", "guiaya", "adageyudi", "chikondi", "amore", "ljubav", "milovat", "elsker", "liefde", "armastus", "pag-ibig", "rakkaus", "amour", "leafde", "amor", "liebe", "agape", "aloha", "pyar", "szerelem", "ast", "gra", "amore", "koi", "milestiba", "meile", "leift", "cinta", "imhabba", "meena", "milosc", "amor", "dragoste", "lyubov", "ghaoil", "ljubav", "milovat", "ljubezen", "amor", "pendo", "karlek", "anpu", "cariad", "uthando"]
+
+["Afrikaans", "Albanian", "Basque", "Bhojpuri", "Bosnian", "Breton", "Catalan", "Cebuano", "Chamorro", "Cherokee", "Chichewa", "Corsican", "Croatian", "Czech", "Danish", "Dutch", "Estonian", "Filipino", "Finnish", "French", "Frisian", "Galician", "German", "Greek", "Hawaiian", "Hindi", "Hungarian", "Icelandic", "Irish", "Italian", "Japanese", "Latvian", "Lithuanian", "Luxembourgish", "Malay", "Maltese", "Pashto", "Polish", "Portuguese", "Romanian", "Russian", "ScotsGaelic", "Serbian", "Slovak", "Slovenian", "Spanish", "Swahili", "Swedish", "Tamil", "Welsh", "Zulu"]
+
+
+liefde Afrikaans
+dashuri Albanian
+maite Basque
+pyaar Bhojpuri
+ljubav Bosnian
+karantez Breton
+amor Catalan
+gugma Cebuano
+guiaya Chamorro
+adageyudi Cherokee
+chikondi Chichewa
+amore Corsican
+ljubav Croatian
+milovat Czech
+elsker Danish
+liefde Dutch
+armastus Estonian
+pag-ibig Filipino
+rakkaus Finnish
+amour French
+leafde Frisian
+amor Galician
+liebe German
+agape Greek
+aloha Hawaiian
+pyar Hindi
+szerelem Hungarian
+ast Icelandic
+gra Irish
+amore Italian
+koi Japanese
+milestiba Latvian
+meile Lithuanian
+leift Luxembourgish
+cinta Malay
+imhabba Maltese
+meena Pashto
+milosc Polish
+amor Portuguese
+dragoste Romanian
+lyubov Russian
+ghaoil ScotsGaelic
+ljubav Serbian
+milovat Slovak
+ljubezen Slovenian
+amor Spanish
+pendo Swahili
+karlek Swedish
+anpu Tamil
+cariad Welsh
+uthando Zulu

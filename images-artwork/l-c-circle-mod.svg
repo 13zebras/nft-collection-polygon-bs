@@ -1,0 +1,21 @@
+string baseSvg1 = "<svg xmlns='http://www.w3.org/2000/svg' height='300' width='300'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='0%' y2='100%'><stop offset='0%' style='stop-color:hsl("
+
+degree1
+
+string baseSvg2 = ",100%,75%);stop-opacity:1' /><stop offset='50%' style='stop-color:hsl("
+
+degree2
+
+string baseSvg3 = ",100%,75%);stop-opacity:1' /><stop offset='100%' style='stop-color:hsl("
+
+degree3
+
+string baseSvg4 = ",100%,75%);stop-opacity:1' /></linearGradient></defs><style>#text1 { fill: #000000; font-family: serif; font-size: 50px; } #text2 { fill: #000000; font-family: sans-serif; font-size: 20px; }</style><circle cx='50%' cy='50%' r='50%' fill='url(#grad1)' stroke='black' stroke-width='1' /><text x='50%' y='48%' id='text1' dominant-string baseline='middle' text-anchor='middle'>"
+
+love
+
+string baseSvg5 = "</text><text x='50%' y='61%' id='text2' dominant-string baseline='middle' text-anchor='middle'>("
+
+language
+
+)</text></svg>

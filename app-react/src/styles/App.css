@@ -1,0 +1,200 @@
+.App {
+    height: 100vh;
+    background-color: #0d1116;
+    overflow: scroll;
+    text-align: center;
+}
+
+.container {
+    height: 100%;
+    background-color: #0d1116;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.header-container {
+    padding-top: 30px;
+}
+
+.header {
+    margin: 0;
+    font-size: 47px;
+    font-weight: bold;
+}
+
+.sub-text {
+    font-size: 27px;
+    color: white;
+    margin-top: 1.5em;
+    margin-bottom: 2em;
+}
+
+.sub-text p {
+    margin: 0 0 0.25em;
+}
+
+.gradient-text {
+    background: -webkit-linear-gradient(left, #fc1937 30%, #8241eb 70%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.cta-button {
+    height: 45px;
+    border: 0;
+    width: auto;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+
+.cta-button-small {
+    height: 30px;
+    border: 0;
+    width: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.connect-wallet-button {
+    background: -webkit-linear-gradient(right, #fc1937, #8241eb);
+    background-size: 200% 200%;
+    animation: gradient-animation 4s ease infinite;
+}
+
+.connect-wallet-button:hover {
+    background: -webkit-linear-gradient(left, #fc1f3d, #8745f1);
+}
+
+.mint-button {
+    background: -webkit-linear-gradient(right, #7200c6, #cf1f7f);
+    background-size: 200% 200%;
+    animation: gradient-animation 6s ease infinite;
+}
+
+.mint-button:hover {
+    background: -webkit-linear-gradient(left, #7605ca, #d32383);
+}
+
+.gradient-text-reverse {
+    background: -webkit-linear-gradient(right, #fc1937 30%, #9231fb 70%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.mint h3 {
+    font-size: 26px;
+}
+
+.instructions {
+    font-size: 1em;
+    color: white;
+    margin: 1.5em auto 2em;
+    width: 330px;
+    text-align: left;
+}
+
+.instructions li {
+    font-size: 1em;
+    color: white;
+    padding-bottom: 0.6em;
+    padding-left: 0.4em;
+    line-height: 1.3em;
+}
+
+.instructions li a {
+    color: #4499ff;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 0 1px 1px;
+}
+
+.instructions li a:hover {
+    background-color: #4499ff;
+    text-decoration: none;
+    color: #111;
+}
+
+.opensea {
+    padding-top: 40px;
+}
+
+.opensea-button {
+    background-color: #232628;
+    color: #ffdd22;
+}
+
+.opensea-button:hover {
+    background-color: #2b2f31;
+    color: #ffe528;
+}
+
+.mint-count {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.twitter-logo {
+    width: 35px;
+    height: 35px;
+}
+
+.footer-text {
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* KeyFrames */
+@-webkit-keyframes gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+@-moz-keyframes gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+@keyframes gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
