@@ -2,9 +2,11 @@
 
 ### About This Project
 
-A first NFT project. The smart contract was written in Solidity, with significant code I had never encountered, for minting ERC721 tokens. The frontend was written in React.
+My first NFT project. The smart contract was written in Solidity, with significant code I had never encountered, for minting ERC721 tokens. The frontend was written in React.
 
 I chose to have as the theme of the NFTs the word love in 52 languages. The NFT is randomly generated from 2 arrays, one with the "love" and one with the corresponding language. The SVG image in the background of the NFT is also generated randomly, with each color gradient set to be 120 degrees from the previous color using HSL color coding. (see sample below)
+
+After exploring deployment options, I modified the project so that instead of using the Rinkeby testnet, I deployed the smart contract to the Polygon Mumbai Testnet. Polygon is fantastic! Alchemy made the switch pretty painless. The hardest part was getting testnet tokens! 😉
 
 ### What I Learned
 
@@ -17,6 +19,7 @@ We worked with the following "tools":
 - Replit
 - Opensea
 - Rarible
+- Polygon
 
 I was familiar with Replit, somewhat familiar with React and Metamask, but Hardhat and Alchemy were new to me. Fantastic tools!
 
@@ -26,7 +29,7 @@ I also learned about Opensea and Rarible, and the roles they play in the NFT cra
 
 ### URL for Project
 
-URL for The Laugh Portal:
+URL for Love Language NFT Project:
 - [LoveLangNFT Collection - lovelangnft.13z.dev](https://lovelangnft.13z.dev)
 
 Code is hosted at [Replit](https://replit.com).
@@ -39,4 +42,4 @@ Code is hosted at [Replit](https://replit.com).
 
 [Buildspace](https://buildspace.so) provided excellent instruction with a very deep dive into the entire entire process minting NFTs using Solidity, Ethereum, and hardhat, as well as developing, testing, and deploying a web3 app.  
 
-I received a [Buildspace NFT @ Opensea](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/4643) for completing this project.) for completing this project.
+I received a [Buildspace NFT @ Opensea](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/4643) for completing this project.
