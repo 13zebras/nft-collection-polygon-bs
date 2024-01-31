@@ -27,13 +27,6 @@ The Solidity used was focused on ERC721 Non-Fungible Tokens. At first it was dif
 
 I also learned about Opensea and Rarible, and the roles they play in the NFT craze.
 
-### URL for Project
-
-URL for Love Language NFT Project:
-- [LoveLangNFT Collection - lovelangnft.13z.dev](https://lovelangnft.13z.dev)
-
-Code is hosted at [Replit](https://replit.com).
-
 ### Sample NFTs
 
 ![Love Language NFTs](sample_images/sample_love_language_nfts.jpg)
