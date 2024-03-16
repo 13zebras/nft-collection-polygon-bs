@@ -16,12 +16,9 @@ We worked with the following "tools":
 - Alchemy
 - Metamask
 - React
-- Replit
 - Opensea
 - Rarible
 - Polygon
-
-I was familiar with Replit, somewhat familiar with React and Metamask, but Hardhat and Alchemy were new to me. Fantastic tools!
 
 The Solidity used was focused on ERC721 Non-Fungible Tokens. At first it was difficult getting my head wrapped around the interaction between the Smart Contract and the React code, but it became apparent quickly that ethers.js was providing a wide variety of functionality that allowed for the interaction. I really need to study this library more, as it (or web3.js) is essential to getting JS and Solidity smart contracts to interact. 
 
@@ -31,8 +28,3 @@ I also learned about Opensea and Rarible, and the roles they play in the NFT cra
 
 ![Love Language NFTs](sample_images/sample_love_language_nfts.jpg)
 
-### Buildspace
-
-[Buildspace](https://buildspace.so) provided excellent instruction with a very deep dive into the entire entire process minting NFTs using Solidity, Ethereum, and hardhat, as well as developing, testing, and deploying a web3 app.  
-
-I received a **Buildspace NFT** - [see it on Opensea](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/4643) - for completing this project.
