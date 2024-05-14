@@ -6,7 +6,7 @@ My first NFT project. The smart contract was written in Solidity, with significa
 
 I chose to have as the theme of the NFTs the word love in 52 languages. The NFT is randomly generated from 2 arrays, one with the "love" and one with the corresponding language. The SVG image in the background of the NFT is also generated randomly, with each color gradient set to be 120 degrees from the previous color using HSL color coding. (see sample below)
 
-After exploring deployment options, I modified the project so that instead of using the Rinkeby testnet, I deployed the smart contract to the Polygon Mumbai Testnet. Polygon is fantastic! Alchemy made the switch pretty painless. The hardest part was getting testnet tokens! 😉
+After exploring deployment options, I modified the project so that instead of using the Rinkeby testnet, I deployed the smart contract to the Polygon Mumbai Testnet. Alchemy made the switch relatively painless. The hardest part was getting testnet tokens! 😉
 
 ### What I Learned
 
